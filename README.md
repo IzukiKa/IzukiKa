@@ -1,8 +1,8 @@
-### Hi there 👋
-<a href="https://wakatime.com/@b6a19e12-2a7e-475a-bf73-a9cfd0fc48e6"><img src="https://wakatime.com/badge/user/b6a19e12-2a7e-475a-bf73-a9cfd0fc48e6.svg" alt="Total time coded since Nov 12 2022" /></a>
-<hr>
+# ❓ Where are all my repositories?
+I recently deleted all of my repositories from GitHub and moved them over to [Codeberg](https://codeberg.org/naomieow). Why? Because I don't want my code to be used to train AIs and I want the platform I use to store my open-source code on to be open-source itself. There are a few other reasons, but those are the main two.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=naomieow&theme=tokyonight&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+# ❓Are you allowed to upload my code to GitHub?
+No. Please do not upload my code to this website, if you want to work on a fork - please fork it *on* Codeberg or another open-source git host.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naomieow&theme=tokyonight&langs_count=5"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=naomieow&show_icons=true&theme=tokyonight"/>
-<hr>
+# ❓ Will I ever come back to GitHub?
+Probably not. Unless Microsoft allow people to opt-out of AI training (currently it works based on your license/repo visibility) and open-source the website - I do not see myself ever returning. I will *very occasionally* submit a PR to other people's code but my own projects will not be found here.
