@@ -1,5 +1,5 @@
 # ❓ Where are all my repositories?
-I recently deleted all of my repositories from GitHub and moved them over to [Codeberg](https://codeberg.org/naomieow). Why? Because I don't want my code to be used to train AIs and I want the platform I use to store my open-source code on to be open-source itself. There are a few other reasons, but those are the main two.
+I recently deleted all of my repositories from GitHub and moved them over to [Codeberg](https://codeberg.org/naomi). Why? Because I don't want my code to be used to train AIs and I want the platform I use to store my open-source code on to be open-source itself. There are a few other reasons, but those are the main two.
 
 # ❓Are you allowed to upload my code to GitHub?
 No. Please do not upload my code to this website, if you want to work on a fork - please fork it *on* Codeberg or another open-source git host.
